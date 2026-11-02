@@ -1,94 +1,212 @@
-<h1 align="center">Hi 👋, I'm Karthik Krishna</h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&height=100&lines=Mobile+Developer;iOS+%7C+Android+Expert;Building+Amazing+User+Experiences;Always+Crafting+Clean+Code" alt="Typing SVG" />
+<!-- ========================================= -->
+<!--              PROFILE BANNER               -->
+<!-- ========================================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,50:101D35,100:142B4D&height=220&section=header&text=Karthik%20Krishna&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=MOBILE%20APPLICATION%20DEVELOPER&descSize=15&descColor=38BDF8&descAlignY=65"/>
+
+<p>
+  <b>iOS Developer | Android Developer | Flutter Developer</b>
+</p>
+
+<p>
+  Building intuitive, scalable and high-performance mobile applications.
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/karthikkrishnak">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthikkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <em>Passionate mobile developer crafting seamless experiences across iOS and Android platforms</em>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 📱 Specializing in **iOS Development** with Swift & SwiftUI
-- 🚀 Exploring cross-platform development with Flutter
-- 💡 Love turning ideas into beautiful, functional mobile apps
-- 🌱 Currently diving deep into **Mobile Architecture Patterns** and **Performance Optimization**
-- ⚡ Fun fact: I debug faster with coffee ☕
-
----
-
-### 🛠️ Tech Stack
-
-#### Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</p>
-
-#### Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" alt="Realm" />
-</p>
-
-#### Tools & Others
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-</p>
-
----
-
-
-
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/karthikkrishnak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://karthik.neuware.in">
+    <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
   </a>
   <a href="mailto:karthikkrishna104@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
-  <a href="https://kartkik.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
+</p>
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--                 ABOUT ME                  -->
+<!-- ========================================= -->
+
+## About Me
+
+I'm a Mobile Application Developer passionate about building clean, reliable and user-friendly applications across mobile platforms.
+
+- 📱 Developing native iOS applications using Swift, SwiftUI and UIKit.
+- 🤖 Building Android applications using Kotlin.
+- 🚀 Exploring cross-platform development with Flutter.
+- 🏗️ Interested in mobile architecture, clean code and performance optimization.
+- 🔥 Experienced with REST APIs, Firebase and local data persistence.
+- 🤝 Open to collaboration on interesting mobile projects.
+
+---
+
+<!-- ========================================= -->
+<!--               TECH STACK                  -->
+<!-- ========================================= -->
+
+## Tech Stack
+
+### 🍎 iOS Development
+
+<p>
+<img src="https://img.shields.io/badge/Swift-0B1220?style=for-the-badge&logo=swift&logoColor=F05138"/>
+<img src="https://img.shields.io/badge/SwiftUI-0B1220?style=for-the-badge&logo=swift&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/UIKit-0B1220?style=for-the-badge&logo=apple&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Xcode-0B1220?style=for-the-badge&logo=xcode&logoColor=147EFB"/>
+<img src="https://img.shields.io/badge/Core_Data-0B1220?style=for-the-badge&logo=apple&logoColor=FFFFFF"/>
+</p>
+
+### 🤖 Android Development
+
+<p>
+<img src="https://img.shields.io/badge/Kotlin-0B1220?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
+<img src="https://img.shields.io/badge/Android_Studio-0B1220?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-0B1220?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4"/>
+</p>
+
+### 💙 Cross Platform
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-0B1220?style=for-the-badge&logo=flutter&logoColor=54C5F8"/>
+<img src="https://img.shields.io/badge/Dart-0B1220?style=for-the-badge&logo=dart&logoColor=0175C2"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://img.shields.io/badge/Firebase-0B1220?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/SQLite-0B1220?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
+<img src="https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/REST_API-0B1220?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Figma-0B1220?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Postman-0B1220?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Jira-0B1220?style=for-the-badge&logo=jira&logoColor=2684FF"/>
+<img src="https://img.shields.io/badge/CocoaPods-0B1220?style=for-the-badge&logo=cocoapods&logoColor=EE3322"/>
 </p>
 
 ---
 
-### 💭 Random Dev Quote
+<!-- ========================================= -->
+<!--              FEATURED PROJECTS            -->
+<!-- ========================================= -->
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Recall
+
+A Mac productivity application focused on improving everyday workflows.
+
+**Tech:** macOS, Swift
+
+<a href="https://kartkik.vercel.app">View Portfolio →</a>
+
+</td>
+<td width="50%">
+
+### 🎓 EduMeet
+
+A virtual learning application built to support online education experiences.
+
+**Tech:** Swift, UIKit, Core Data
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛡️ Security Patrol Tracking
+
+A mobile application for security personnel with checkpoint verification and background synchronization.
+
+**Tech:** Swift, SwiftUI, Bluetooth, NFC
+
+</td>
+<td width="50%">
+
+### 💼 JobFinder
+
+A mobile job discovery application that helps users explore opportunities.
+
+**Tech:** Swift, UIKit, REST APIs
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <em>💙 Open to collaboration on mobile projects!</em>
-</p>
+<!-- ========================================= -->
+<!--              GITHUB STATISTICS            -->
+<!-- ========================================= -->
+
+## GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1"/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0B1220&stroke=1E293B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B"/>
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--               CONTRIBUTIONS               -->
+<!-- ========================================= -->
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0B1220&color=38BDF8&line=6366F1&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--                 CONTACT                   -->
+<!-- ========================================= -->
+
+## Let's Connect
+
+I'm always interested in connecting with developers, collaborating on meaningful projects and exploring new opportunities.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <a href="https://linkedin.com/in/karthikkrishnak">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+  </a>
+  <a href="mailto:karthikkrishna104@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
 </p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,100:142B4D&height=80&section=footer"/>
+
+</div>
